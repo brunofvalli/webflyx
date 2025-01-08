@@ -1,0 +1,37 @@
+[33mcommit cb8a101d4b46455e91ceebaa980bc926d599128f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 5aa1f09 ee1962d
+Author: brunofvalli <brunofvalli@gmail.com>
+Date:   Thu Dec 19 07:48:23 2024 -0600
+
+    F: Merge branch 'add_classics'
+    Getting the changes from the branch
+
+[33mcommit 5aa1f09162f42c2e219450e16f3cf8b60ac5bfaa[m
+Author: brunofvalli <brunofvalli@gmail.com>
+Date:   Wed Dec 18 15:10:51 2024 -0600
+
+    E: adding things to contents.md
+
+[33mcommit ee1962d65f7c8d7324d62dcf85a4abeeebdbc9bf[m[33m ([m[1;32madd_classics[m[33m)[m
+Author: brunofvalli <brunofvalli@gmail.com>
+Date:   Wed Dec 18 10:45:30 2024 -0600
+
+    D: adding the classics
+
+[33mcommit b319900fad5c854d3ec0566b1e05ff21e86e6eab[m
+Author: brunofvalli <brunofvalli@gmail.com>
+Date:   Wed Dec 18 07:35:17 2024 -0600
+
+    C: adding quotes
+
+[33mcommit a594192fb6385e289f6bd3c5127e1fa2bcb821c7[m
+Author: brunofvalli <brunofvalli@gmail.com>
+Date:   Wed Dec 18 07:31:54 2024 -0600
+
+    B:second file
+
+[33mcommit bdde02b8cfdbb94957ab475c49c3da5ba2ed84d8[m
+Author: brunofvalli <brunofvalli@gmail.com>
+Date:   Tue Dec 17 08:14:53 2024 -0600
+
+    A: add contents.md
